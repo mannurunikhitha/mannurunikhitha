@@ -26,12 +26,12 @@
 ---
 
 ### 📊 GitHub Stats:
-![Nikhitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Nikhitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=mannurunikhitha&show_icons=true&theme=radical)
 
 ---
 
 ### 🔥 GitHub Streak:
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mannurunikhitha&theme=radical)
 
 ---
 
@@ -42,4 +42,4 @@
 ---
 
 ### 📫 Contact Me:
-- 📧 Email: your-email@example.com
+- 📧 Email: mannurunikhitha@example.com
