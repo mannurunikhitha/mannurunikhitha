@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nikhitha Mannuru</h1>
+<h3 align="center">Aspiring Software Developer | Python | Django | Problem Solver</h3>
 
-<!--
-**mannurunikhitha/mannurunikhitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌐 Connect with me:
+- 💼 LinkedIn: https://www.linkedin.com/in/mannuru-nikhitha-813377280/
+- 💻 HackerRank: https://www.hackerrank.com/profile/mannurunikhitha
+- 🧠 LeetCode: https://leetcode.com/u/MANNURU_NIKHITHA/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Tech Stack:
+- Python 🐍
+- Django 🌐
+- MySQL 🗄️
+- HTML, CSS 🎨
+- Basic JavaScript ⚡
+
+---
+
+### 🚀 Projects:
+- 📌 Student Management System (Python + MySQL)
+- 📌 CLI Management System
+
+---
+
+### 📊 GitHub Stats:
+![Nikhitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
+### 🔥 GitHub Streak:
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+
+---
+
+### ✨ About Me:
+- 🌱 Learning Full Stack Development
+- 💡 Passionate about problem solving and coding
+
+---
+
+### 📫 Contact Me:
+- 📧 Email: your-email@example.com
