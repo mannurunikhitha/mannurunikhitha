@@ -29,7 +29,6 @@
 ### 🚀 Projects:
 
 * 📌 Student Management System (Python + MySQL)
-* 📌 Job Portal (Django)
 * 📌 CLI Management System
 
 ---
